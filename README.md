@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gunjan Kumar</h1>
 <h3 align="center">A passionate Data Engineering from India</h3>
 
-<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw21Uk1Cx-KGfXahqwcmM-Uj&ust=1707401772046000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjNhMG1mYQDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src"https://i.ibb.co/XLtZp2d/programmer.gif">
 
-<p align="left"> <img src="https://i.ibb.co/WyvYyf5/photo1.jpg" alt="gunjanbabu29" /> </p>
+<p align="left"> <img src="i.ibb.co/Lkpvd8G/Brown-Aesthetic-Photo-Collage-Facebook-Cover.png" alt="gunjanbabu29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjanbabu29" alt="gunjanbabu29" /></a> </p>
 
