@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, Machine Learning, NLP... or anything **
 
-⚡ Fun fact **GitHub was founded in April, 2008.**
+⚡ Fun fact **GitHub was founded in April 2008.**
 
  </div>
  
@@ -37,7 +37,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gunjanBabu29](https://github.com/gunjanBabu29)
 
-- 💬 Ask me about **Python, Machine Learning, Ms Excel etc**
+- 💬 Ask me about **Python, Machine Learning, MS Excel, etc**
 
 - 📫 How to reach me **gunjansingh9752@gmail.com**
 
