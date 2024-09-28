@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Power BI, SQL, AWS...**
 
-💬 Ask me about **Python, Machine Learning, NLP... or anything **
+💬 Ask me about **Python, Machine Learning, NLP... or anything**
 
 ⚡ Fun fact **GitHub was founded in April 2008.**
 
@@ -59,3 +59,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjanbabu29&show_icons=true&locale=en" alt="gunjanbabu29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanbabu29&" alt="gunjanbabu29" /></p>
+**Thank You**
