@@ -46,7 +46,7 @@
 
 - 📫 How to reach me **gunjansingh9752@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1u599YIM5pmeBf1KYriCvHNOBAKewSgNl/view?usp=sharing](https://drive.google.com/file/d/1u599YIM5pmeBf1KYriCvHNOBAKewSgNl/view?usp=sharing)](https://drive.google.com/file/d/1x2OkjOurS-UscKsVs8RGtg5VJxT6j4EB/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1x2OkjOurS-UscKsVs8RGtg5VJxT6j4EB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
