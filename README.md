@@ -30,6 +30,11 @@
   <a href="https://gunjanblogs.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+<a href="(https://drive.google.com/file/d/1x2OkjOurS-UscKsVs8RGtg5VJxT6j4EB/view?usp=drive_link)" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank" /> <!-- file-icons, document, or google-drive are other good icon options -->
+</a>
+
 </div>
 
  <hr/>
