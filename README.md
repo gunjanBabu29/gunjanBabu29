@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Power BI, SQL, AWS...**
 
-💬 Ask me about **Python, Machine Learning, NLP... or anything**
+💬 Ask me about **Python, Machine Learning, NLP...**
 
 ⚡ Fun fact **GitHub was founded in April 2008.**
 
